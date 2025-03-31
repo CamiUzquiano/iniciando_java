@@ -11,6 +11,8 @@
     var = define variables en versiones antiguas (se está volviendo obsoleta, ahora se usa solo el let)
     const = define una constante
 */
+/*  Propiedad = es esta atribución de alguna característica en una variable
+    Método = alguna acción que puede realizar una variable*/
 let nombre = "Camila"; //let es un nombre reservado para otorgar a una variable, "nombre" es el nombre de la variable let y "Camila" es el valor que le estoy otorgando a esta variable
 console.log(nombre); //aqui pedimos que por la consola nos imprima el contenido de la variable nombre
 console.log(nombre.length); //aqui decimos que use la consola para imprimirme el numero de caractéres de la variable
